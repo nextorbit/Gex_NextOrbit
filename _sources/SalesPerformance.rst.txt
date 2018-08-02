@@ -4,7 +4,6 @@ SALES PERFORMANCE
 The Sales Performance screen of the platform offers insights and depicts the trend that can be discovered from POS data. The global filters allow you to draw sales insights for  
 products across all levels of hierarchy. The default time range for which insights are presented on first load is the current week. This can be changed with the help of the time filter in the top right portion of the screen.
 
-
 Overview Cards
 --------------
 
