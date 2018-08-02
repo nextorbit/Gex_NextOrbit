@@ -1,4 +1,4 @@
-ALES PERFORMANCE
+SALES PERFORMANCE
 =================
 
 The Sales Performance screen of the platform offers insights and depicts the trend that can be discovered from POS data. The global filters allow you to draw sales insights for  

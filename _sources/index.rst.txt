@@ -13,6 +13,9 @@ GEX-NextOrbit Platform Documentation!
    :caption: Contents:
 
    SalesPerformance
+   Comparison
+   TopSellers
+   SlowMovers
 
 Indices and tables
 ==================

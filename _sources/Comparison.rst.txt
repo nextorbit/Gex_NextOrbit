@@ -1,0 +1,44 @@
+COMPARISON TOOL
+===============
+
+
+The Comparison Tool of the platform offers insights on the sales, Out of Stock and Inventory level of the products and allows us to compare them. The global filters allow you to draw these insights for products across all levels of hierarchy. The default time range for which insights are presented on first load is the current week. This can be changed with the help of the time filter in the top right portion of the screen.
+
+
+Graphs
+------
+
+
+Line Graph
+^^^^^^^^^^
+
+
+.. image:: images/comparison_line.png
+
+
+- The line graph represent the trend of sales, out of stock and inventory level for the products selected, across the time frame. 
+
+- The options on the top left allow you to zoom-in on a particular time frame and increase or decrease the granularity of the plot. 
+
+
+Pie Chart
+^^^^^^^^^
+
+.. image:: images/revenue_share_piechart.png
+
+- The first portion of the chart depicts the total share/contribution of the selected products to sales, inventory or out of stock during the time period selected in the filter, across all stores. The subsequent charts show their share in a particular store.
+
+- The Revenue/Out Of Stock/Inventory Level  share is depicted for the given products across all stores relevant to the end user.
+
+
+Stacked Bar Graph
+^^^^^^^^^^^^^^^^^
+
+.. image:: images/sales_stacked.png
+
+
+- This depicts the comparison between the selected products for their sales, out of stock and inventory levels(whatever selected) for the time period specified in the filter above.
+
+- The comparison is depicted for the selected products across all stores relevant to the end user.
+
+
